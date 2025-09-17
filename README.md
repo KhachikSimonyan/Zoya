@@ -1,10 +1,9 @@
-
 <!doctype html>
 <html lang="hy">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Շնորհավոր Ծնունդ, Զոյա!</title>
+  <title>Շնորհավոր Ծնունդ, Զոյա! աոաեֆսադֆգ</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Armenian:wght@400;700&display=swap" rel="stylesheet">
   <style>
     :root{
